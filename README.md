@@ -82,7 +82,7 @@ Doesn't work?
 ------------------------
 1) Test the gym-http-api
 ~~~~
-cd /src/gym-http-api/
+cd src/gym-http-api/
 nose2
 ~~~~
 
